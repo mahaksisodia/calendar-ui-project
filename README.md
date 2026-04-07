@@ -53,7 +53,7 @@ The UI is inspired by a physical wall calendar, featuring a prominent hero image
 
 ## 🌐 Live Demo
 
-(Add your deployed link here)
+(https://calendar-ui-project.vercel.app/)
 
 ---
 
