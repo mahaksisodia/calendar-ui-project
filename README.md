@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📅 Interactive Wall Calendar Component
 
-## Getting Started
+## 🚀 Overview
 
-First, run the development server:
+This project is a responsive and interactive wall calendar component built using Next.js and Tailwind CSS. It is inspired by a physical wall calendar design and combines both visual appeal and functionality.
+
+---
+
+## ✨ Features
+
+* 📸 Dynamic hero image that changes based on the selected month
+* 📅 Calendar grid with correct date alignment and weekday labels
+* 🔘 Date range selection with visual highlighting
+* 📝 Notes section with localStorage persistence
+* 🎯 Highlight for today's date
+* 📌 Weekend highlighting
+* 🔄 Month navigation (next and previous)
+* 📱 Fully responsive design (desktop and mobile)
+
+---
+
+## 🛠️ Tech Stack
+
+* Next.js
+* React
+* Tailwind CSS
+* date-fns
+
+---
+
+## ▶️ How to Run Locally
 
 ```bash
+git clone https://github.com/mahaksisodia/calendar-ui-project.git
+cd calendar-ui-project
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🎨 Design Approach
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The UI is inspired by a physical wall calendar, featuring a prominent hero image paired with a structured calendar grid. The goal was to maintain a balance between aesthetics and usability while ensuring a smooth and interactive experience.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 📹 Video Demo
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+(Add your video link here)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🌐 Live Demo
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+(Add your deployed link here)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 💡 Key Highlights
+
+* Focused on both functionality and user experience
+* Clean and modern UI with smooth interactions
+* Creative enhancement using dynamic monthly images
