@@ -47,7 +47,7 @@ The UI is inspired by a physical wall calendar, featuring a prominent hero image
 
 ## 📹 Video Demo
 
-(Add your video link here)
+(https://drive.google.com/file/d/1_ump2IfEV7vw0a66CMBc0uFs_wj6LHzu/view?usp=sharing)
 
 ---
 
